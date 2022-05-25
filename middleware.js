@@ -15,3 +15,7 @@ function authToken(req, res, next) {
   }
 
   module.exports=authToken;
+
+  // npm init
+  //npm install express
+  // npm nodeman
